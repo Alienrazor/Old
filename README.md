@@ -13,6 +13,6 @@ pip install mechanize
 
 git clone https://github.com/Alienrazor/Old
 
-cd FILE
+cd Old
 
 python Older.py
